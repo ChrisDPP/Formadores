@@ -1,0 +1,61 @@
+.cabecalho {
+    color: rgb(0, 0, 0);
+    height: 120px;
+    border-bottom: 1px solid black;
+    display:flex;
+    align-items: center;
+    justify-content:center;
+}
+
+.cabecalho-lista{
+    list-style: none;
+}
+
+.Cabecalho-imagem{
+    width:20%;
+    height:40%
+}
+
+.conteudo{
+    position: relative;
+    width: 70%;
+    left: 15%;
+}
+
+table{
+    position: relative;
+    background-color: rgb(255, 255, 255);
+    width: 70%;
+    text-align: center;
+    border: 1px solid black;
+}
+
+table td, th{
+    padding-left: 2%;
+    border: 1px solid black;
+    width: 10%;
+}
+
+table th{
+    background-color: rgb(0, 11, 71);
+    color: white;
+}
+
+.tabela-embaixadores img{
+    width: 40%;
+    height: 40%;
+}
+
+.rodape{
+    height: 80px;
+    width: 100%;
+    position: relative;
+    margin-top: 5%;
+    background-color: rgb(0, 11, 71);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
